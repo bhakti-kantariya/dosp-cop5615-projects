@@ -1,8 +1,8 @@
 Youtube demo video link - https://www.youtube.com/watch?v=WBcs7IrAY0o
 
 **Contributors:**  
-**Bhakti Armish Kantariya - UF ID: 3928 1182  
-Purva Sanjay Puranik - UF ID: 6017 3612**
+**Bhakti Armish Kantariya 
+Purva Sanjay Puranik**
 
 **Functionalities of the server/engine implemented:**  
 1. Signup
